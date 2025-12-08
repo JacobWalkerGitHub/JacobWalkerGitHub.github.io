@@ -7,7 +7,7 @@ title: Privacy Policy - Nect
 
 **Last Updated:** December 7, 2024
 
-Welcome to Nect! This Privacy Policy explains how WalkerDev ("we," "us," or "our") collects, uses, discloses, and safeguards your information when you use the Nect mobile application ("App"). Please read this Privacy Policy carefully.
+Welcome to Nect! This Privacy Policy explains how WalkerTech ("we," "us," or "our") collects, uses, discloses, and safeguards your information when you use the Nect mobile application ("App"). Please read this Privacy Policy carefully.
 
 > **Important:** By using Nect, you agree to the collection and use of information in accordance with this Privacy Policy.
 
