@@ -7,13 +7,13 @@ title: Terms of Service - Nect
 
 **Last Updated:** December 7, 2024
 
-Welcome to Nect! These Terms of Service ("Terms") govern your use of the Nect mobile application ("App") developed by Jacob Walker, doing business as WalkerDev ("we," "us," or "our"). By accessing or using Nect, you agree to be bound by these Terms.
+Welcome to Nect! These Terms of Service ("Terms") govern your use of the Nect mobile application ("App") developed by Jacob Walker, doing business as WalkerTech ("we," "us," or "our"). By accessing or using Nect, you agree to be bound by these Terms.
 
 > **Important:** Please read these Terms carefully before using the App. If you do not agree to these Terms, you may not use Nect.
 
 ## 1. Acceptance of Terms
 
-By creating an account, accessing, or using Nect, you acknowledge that you have read, understood, and agree to be bound by these Terms and our Privacy Policy. These Terms constitute a legally binding agreement between you and WalkerDev.
+By creating an account, accessing, or using Nect, you acknowledge that you have read, understood, and agree to be bound by these Terms and our Privacy Policy. These Terms constitute a legally binding agreement between you and WalkerTech.
 
 ## 2. Eligibility and Age Requirement
 
@@ -71,8 +71,8 @@ You agree NOT to:
 ### 5.1 Your Content Ownership
 You retain all ownership rights to the content you post on Nect, including posts, photos, videos, comments, and other materials ("User Content").
 
-### 5.2 License Grant to WalkerDev
-By posting User Content on Nect, you grant WalkerDev a worldwide, non-exclusive, royalty-free, transferable, sublicensable license to:
+### 5.2 License Grant to WalkerTech
+By posting User Content on Nect, you grant WalkerTech a worldwide, non-exclusive, royalty-free, transferable, sublicensable license to:
 - Use, reproduce, modify, adapt, and publish your User Content
 - Display and distribute your User Content within the App and on our marketing materials
 - Create derivative works based on your User Content
@@ -81,7 +81,7 @@ By posting User Content on Nect, you grant WalkerDev a worldwide, non-exclusive,
 This license continues even if you stop using the App, but terminates when you delete your content or account (except for content shared or reposted by other users).
 
 ### 5.3 Our Content
-All content provided by Nect, including but not limited to text, graphics, logos, software, and functionality, is owned by WalkerDev and protected by copyright, trademark, and other intellectual property laws.
+All content provided by Nect, including but not limited to text, graphics, logos, software, and functionality, is owned by WalkerTech and protected by copyright, trademark, and other intellectual property laws.
 
 ## 6. Content Moderation
 
@@ -159,7 +159,7 @@ THE APP IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTIES OF
 - Uninterrupted or error-free operation
 
 ### 12.2 Limitation of Liability
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, WALKERDEV SHALL NOT BE LIABLE FOR ANY:
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, WalkerTech SHALL NOT BE LIABLE FOR ANY:
 - Indirect, incidental, special, consequential, or punitive damages
 - Loss of profits, data, use, or goodwill
 - Service interruptions or security breaches
@@ -174,7 +174,7 @@ You are solely responsible for:
 
 ## 13. Indemnification
 
-You agree to defend, indemnify, and hold harmless WalkerDev, Jacob Walker, and our affiliates from any claims, damages, losses, liabilities, and expenses (including attorney's fees) arising from:
+You agree to defend, indemnify, and hold harmless WalkerTech, Jacob Walker, and our affiliates from any claims, damages, losses, liabilities, and expenses (including attorney's fees) arising from:
 - Your use of the App
 - Your violation of these Terms
 - Your User Content
@@ -211,7 +211,7 @@ If any provision of these Terms is found to be unenforceable or invalid, that pr
 
 ## 17. Entire Agreement
 
-These Terms, together with our Privacy Policy, constitute the entire agreement between you and WalkerDev regarding the use of Nect and supersede all prior agreements and understandings.
+These Terms, together with our Privacy Policy, constitute the entire agreement between you and WalkerTech regarding the use of Nect and supersede all prior agreements and understandings.
 
 ## 18. No Waiver
 
@@ -229,14 +229,14 @@ Provisions that by their nature should survive termination shall survive, includ
 
 If you have any questions, concerns, or complaints about these Terms, please contact us at:
 
-**WalkerDev**  
+**WalkerTech**  
 Developer: Jacob Walker  
-Email: [walkderdtom@gmail.com](mailto:walkderdtom@gmail.com)
+Email: [nectappinfo@gmail.com](mailto:nectappinfo@gmail.com)
 
 We will make every effort to respond to your inquiry within 48 hours.
 
 ---
 
-© 2024 WalkerDev. All rights reserved.
+© 2024 WalkerTech. All rights reserved.
 
 [Privacy Policy](index.html) | [Terms of Service](terms.html)
