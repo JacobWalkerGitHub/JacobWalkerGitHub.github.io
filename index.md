@@ -271,7 +271,7 @@ Some browsers include a "Do Not Track" (DNT) feature. Nect does not currently re
 
 If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
-**WalkerDev**  
+**WalkerTech**  
 Developer: Jacob Walker  
 Email: [nectappinfo@gmail.com](mailto:nectappinfo@gmail.com)
 
@@ -283,6 +283,6 @@ If required for legal purposes, we can provide a mailing address upon request.
 
 ---
 
-© 2024 WalkerDev. All rights reserved.
+© 2024 WalkerTech. All rights reserved.
 
 [Privacy Policy](index.html) | [Terms of Service](terms.html)
