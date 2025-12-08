@@ -56,6 +56,10 @@ You agree NOT to post, upload, or share content that:
 - Contains viruses, malware, or other harmful code
 - Violates any local, state, national, or international law
 
+>Zero-Tolerance Policy: We have zero tolerance for abusive, offensive, or objectionable content. Content that violates these rules may be removed immediately, and users who post such content may have their accounts suspended or terminated.
+
+>Reporting and Enforcement: Users can report content that violates these Terms using the in-app reporting system. All reported content will be reviewed within 24 hours, and appropriate action, including removal of content and suspension of offending users, will be taken.
+
 ### 4.3 Additional Prohibited Activities
 You agree NOT to:
 - Use the App for any commercial purpose without our written permission
@@ -89,10 +93,13 @@ All content provided by Nect, including but not limited to text, graphics, logos
 We manually review reported content and reserve the right to remove any content that violates these Terms without prior notice.
 
 ### 6.2 Reporting System
-A user reporting system is planned for future implementation. Users will be able to report content that violates these Terms.
+Users can report content that violates these Terms using the in-app reporting system. All reported content will be reviewed within 24 hours, and appropriate action, including removal of content and suspension of offending users, will be taken. 
 
 ### 6.3 No Obligation to Monitor
 While we moderate content, we are not obligated to monitor all User Content and are not responsible for content posted by users.
+
+### 6.4 Blocking Users
+You may block other users to prevent them from viewing your content or interacting with you. Blocked users will not be able to comment, like, or message you.
 
 ## 7. Location Services
 
