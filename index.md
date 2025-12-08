@@ -186,7 +186,7 @@ You are responsible for:
 Nect is intended for users aged 13 and older. We do not knowingly collect information from children under 13.
 
 ### 7.2 Parental Notice
-If you are a parent or guardian and believe your child under 13 has provided us with personal information, please contact us immediately at [walkderdtom@gmail.com](mailto:walkderdtom@gmail.com).
+If you are a parent or guardian and believe your child under 13 has provided us with personal information, please contact us immediately at [nectappinfo@gmail.com](mailto:nectappinfo@gmail.com).
 
 ### 7.3 Data Deletion
 If we learn we have collected information from a child under 13, we will delete that information promptly.
@@ -220,7 +220,7 @@ You can opt out of the sale of personal information. Note: We do not sell your p
 We will not discriminate against you for exercising your CCPA rights.
 
 ### 9.5 How to Exercise Rights
-Contact us at [walkderdtom@gmail.com](mailto:walkderdtom@gmail.com) to exercise your California privacy rights.
+Contact us at [nectappinfo@gmail.com](mailto:nectappinfo@gmail.com) to exercise your California privacy rights.
 
 ## 10. European Privacy Rights (GDPR)
 
@@ -243,7 +243,7 @@ We process your data based on:
 - Right to withdraw consent
 
 ### 10.3 Data Protection Officer
-For GDPR-related inquiries, contact us at [walkderdtom@gmail.com](mailto:walkderdtom@gmail.com).
+For GDPR-related inquiries, contact us at [nectappinfo@gmail.com](mailto:nectappinfo@gmail.com).
 
 ## 11. Third-Party Links
 
@@ -273,7 +273,7 @@ If you have questions, concerns, or requests regarding this Privacy Policy or ou
 
 **WalkerDev**  
 Developer: Jacob Walker  
-Email: [walkderdtom@gmail.com](mailto:walkderdtom@gmail.com)
+Email: [nectappinfo@gmail.com](mailto:nectappinfo@gmail.com)
 
 **Response Time:**  
 We will make every effort to respond to your inquiry within 48 hours.
