@@ -156,10 +156,8 @@ You can control location access:
 - Enable or disable location services in your device settings
 - Note: Disabling location may limit certain app features
 
-### 5.3 Advertising Preferences
-You can opt out of personalized advertising:
-- iOS: Settings → Privacy → Advertising → Enable "Limit Ad Tracking"
-- Adjust ad preferences in your device settings
+### 5.3 Advertising
+Our app uses Google AdMob to display ads. We do not collect personal data for advertising purposes, and the ads shown are not personalized.
 
 ### 5.4 Communication Preferences
 You can manage notifications in the App's settings.
