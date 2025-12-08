@@ -119,11 +119,11 @@ We share information with trusted third-party services:
 We may disclose your information if required by law or if we believe such action is necessary to:
 - Comply with legal processes or government requests
 - Enforce our Terms of Service
-- Protect the rights, property, or safety of WalkerDev, our users, or others
+- Protect the rights, property, or safety of WalkerTech, our users, or others
 - Prevent fraud or security issues
 
 ### 3.4 Business Transfers
-If WalkerDev is involved in a merger, acquisition, or sale of assets, your information may be transferred as part of that transaction.
+If WalkerTech is involved in a merger, acquisition, or sale of assets, your information may be transferred as part of that transaction.
 
 ### 3.5 With Your Consent
 We may share your information for other purposes with your explicit consent.
